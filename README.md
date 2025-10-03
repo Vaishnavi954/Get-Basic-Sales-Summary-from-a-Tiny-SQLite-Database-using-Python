@@ -23,6 +23,6 @@
 The repo includes the following screenshots for quick reference:
 - visualization of sales data with a bar chart using matplotlib
  --- 
-- <img width="1495" height="923" alt="Screenshot 2025-10-03 094548" src="https://github.com/user-attachments/assets/0da0d798-6089-462f-9447-dc7b56da7826" />
+ <img width="1495" height="923" alt="Screenshot 2025-10-03 094548" src="https://github.com/user-attachments/assets/0da0d798-6089-462f-9447-dc7b56da7826" />
 
 
